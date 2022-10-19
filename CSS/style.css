@@ -1,0 +1,22 @@
+
+
+ul{
+  display: flex;
+  justify-content: space-between;
+}
+.container{
+  margin-top: 150px;
+  margin-left: 40vw;
+  margin-right: 50vw;
+
+}
+fieldset{
+  margin: auto;
+  background-color: #6e47df;
+}
+#submit{
+  display: none;
+}
+#incremento{
+  display: none;
+}
